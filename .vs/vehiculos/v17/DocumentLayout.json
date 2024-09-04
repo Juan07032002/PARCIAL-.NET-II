@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|c:\\users\\josev\\onedrive\\escritorio\\vehiculos\\vehiculos\\views\\vehiculoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\views\\vehiculoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|c:\\users\\josev\\onedrive\\escritorio\\vehiculos\\vehiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|c:\\users\\josev\\onedrive\\escritorio\\vehiculos\\vehiculos\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|c:\\users\\josev\\onedrive\\escritorio\\vehiculos\\vehiculos\\controllers\\vehiculoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\controllers\\vehiculoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|c:\\users\\josev\\onedrive\\escritorio\\vehiculos\\vehiculos\\controllers\\marcascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\controllers\\marcascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|c:\\users\\josev\\onedrive\\escritorio\\vehiculos\\vehiculos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|c:\\users\\josev\\onedrive\\escritorio\\vehiculos\\vehiculos\\repository\\manager\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\repository\\manager\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|c:\\users\\josev\\onedrive\\escritorio\\vehiculos\\vehiculos\\repository\\manager\\vehiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\repository\\manager\\vehiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|c:\\users\\josev\\onedrive\\escritorio\\vehiculos\\vehiculos\\repository\\manager\\marcarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\repository\\manager\\marcarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|c:\\users\\josev\\onedrive\\escritorio\\vehiculos\\vehiculos\\repository\\interface\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\repository\\interface\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|c:\\users\\josev\\onedrive\\escritorio\\vehiculos\\vehiculos\\repository\\interface\\ivehiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\repository\\interface\\ivehiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|c:\\users\\josev\\onedrive\\escritorio\\vehiculos\\vehiculos\\repository\\interface\\imarcarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\repository\\interface\\imarcarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|c:\\users\\josev\\onedrive\\escritorio\\vehiculos\\vehiculos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|c:\\users\\josev\\onedrive\\escritorio\\vehiculos\\vehiculos\\migrations\\20240904005124_vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\migrations\\20240904005124_vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|c:\\users\\josev\\onedrive\\escritorio\\vehiculos\\vehiculos\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|c:\\users\\josev\\onedrive\\escritorio\\vehiculos\\vehiculos\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|c:\\users\\josev\\onedrive\\escritorio\\vehiculos\\vehiculos\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|c:\\users\\josev\\onedrive\\escritorio\\vehiculos\\vehiculos\\models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|c:\\users\\josev\\onedrive\\escritorio\\vehiculos\\vehiculos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|c:\\users\\josev\\onedrive\\escritorio\\vehiculos\\vehiculos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E100B89-DAB5-498D-AA79-43B10694C0D1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Views\\Vehiculoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "vehiculos\\Views\\Vehiculoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Views\\Vehiculoes\\Index.cshtml",
+              "RelativeToolTip": "vehiculos\\Views\\Vehiculoes\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T01:37:30.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MarcasController.cs",
+              "DocumentMoniker": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Controllers\\MarcasController.cs",
+              "RelativeDocumentMoniker": "vehiculos\\Controllers\\MarcasController.cs",
+              "ToolTip": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Controllers\\MarcasController.cs",
+              "RelativeToolTip": "vehiculos\\Controllers\\MarcasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:52:56.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehiculoesController.cs",
+              "DocumentMoniker": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Controllers\\VehiculoesController.cs",
+              "RelativeDocumentMoniker": "vehiculos\\Controllers\\VehiculoesController.cs",
+              "ToolTip": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Controllers\\VehiculoesController.cs",
+              "RelativeToolTip": "vehiculos\\Controllers\\VehiculoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:53:41.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "vehiculos\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "vehiculos\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:55:11.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Program.cs",
+              "RelativeDocumentMoniker": "vehiculos\\Program.cs",
+              "ToolTip": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Program.cs",
+              "RelativeToolTip": "vehiculos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:10:52.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "vehiculos\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "vehiculos\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:51:47.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Repository\\Manager\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "vehiculos\\Repository\\Manager\\VentaRepository.cs",
+              "ToolTip": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Repository\\Manager\\VentaRepository.cs",
+              "RelativeToolTip": "vehiculos\\Repository\\Manager\\VentaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:28:16.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MarcaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Repository\\Manager\\MarcaRepository.cs",
+              "RelativeDocumentMoniker": "vehiculos\\Repository\\Manager\\MarcaRepository.cs",
+              "ToolTip": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Repository\\Manager\\MarcaRepository.cs",
+              "RelativeToolTip": "vehiculos\\Repository\\Manager\\MarcaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:26:55.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehiculoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Repository\\Manager\\VehiculoRepository.cs",
+              "RelativeDocumentMoniker": "vehiculos\\Repository\\Manager\\VehiculoRepository.cs",
+              "ToolTip": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Repository\\Manager\\VehiculoRepository.cs",
+              "RelativeToolTip": "vehiculos\\Repository\\Manager\\VehiculoRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:27:30.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IVentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Repository\\Interface\\IVentaRepository.cs",
+              "RelativeDocumentMoniker": "vehiculos\\Repository\\Interface\\IVentaRepository.cs",
+              "ToolTip": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Repository\\Interface\\IVentaRepository.cs",
+              "RelativeToolTip": "vehiculos\\Repository\\Interface\\IVentaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:26:42.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IVehiculoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Repository\\Interface\\IVehiculoRepository.cs",
+              "RelativeDocumentMoniker": "vehiculos\\Repository\\Interface\\IVehiculoRepository.cs",
+              "ToolTip": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Repository\\Interface\\IVehiculoRepository.cs",
+              "RelativeToolTip": "vehiculos\\Repository\\Interface\\IVehiculoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:26:29.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMarcaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Repository\\Interface\\IMarcaRepository.cs",
+              "RelativeDocumentMoniker": "vehiculos\\Repository\\Interface\\IMarcaRepository.cs",
+              "ToolTip": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Repository\\Interface\\IMarcaRepository.cs",
+              "RelativeToolTip": "vehiculos\\Repository\\Interface\\IMarcaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:26:07.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "vehiculos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "vehiculos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T00:57:20.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240904005124_vehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Migrations\\20240904005124_vehiculos.cs",
+              "RelativeDocumentMoniker": "vehiculos\\Migrations\\20240904005124_vehiculos.cs",
+              "ToolTip": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Migrations\\20240904005124_vehiculos.cs",
+              "RelativeToolTip": "vehiculos\\Migrations\\20240904005124_vehiculos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:51:25.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Data\\AplicationDBContext.cs",
+              "RelativeDocumentMoniker": "vehiculos\\Data\\AplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Data\\AplicationDBContext.cs",
+              "RelativeToolTip": "vehiculos\\Data\\AplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:17:02.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "vehiculos\\Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Models\\Venta.cs",
+              "RelativeToolTip": "vehiculos\\Models\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:48:16.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Models\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "vehiculos\\Models\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Models\\Vehiculo.cs",
+              "RelativeToolTip": "vehiculos\\Models\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:48:03.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Models\\Marca.cs",
+              "RelativeDocumentMoniker": "vehiculos\\Models\\Marca.cs",
+              "ToolTip": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Models\\Marca.cs",
+              "RelativeToolTip": "vehiculos\\Models\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:47:43.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "vehiculos\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "vehiculos\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:45:56.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\appsettings.json",
+              "RelativeDocumentMoniker": "vehiculos\\appsettings.json",
+              "ToolTip": "C:\\Users\\josev\\OneDrive\\Escritorio\\vehiculos\\vehiculos\\appsettings.json",
+              "RelativeToolTip": "vehiculos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T00:18:45.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
